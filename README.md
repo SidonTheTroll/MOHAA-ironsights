@@ -6,6 +6,6 @@ A simple and straightforward mod for [Medal of Honor: Allied Assault](https://en
 
 ## Installation 
 
-Copy and paste `user-locknload.pk3` and `zuser-ironsights.pk3` into the 'main' directory of your games's installation directory. **Resist from also pasting this README file and src folder into the installation folder to prevent any unwanted bugs.**
+Copy and paste `user-locknload.pk3` and `zuser-ironsights.pk3` into the 'main' directory of your game's installation directory. **Resist from also pasting this README file and src folder into the installation folder to prevent any unwanted bugs.**
 
 ## Screenshots
