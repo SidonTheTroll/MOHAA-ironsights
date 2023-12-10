@@ -8,4 +8,14 @@ A simple and straightforward mod for [Medal of Honor: Allied Assault](https://en
 
 Copy and paste `user-locknload.pk3` and `zuser-ironsights.pk3` into the 'main' directory of your game's installation directory. **Resist from also pasting this README file and src folder into the installation folder to prevent any unwanted bugs.**
 
+## Known Issues 
+
+1. The aiming animation for STG44 doesn't work as intended. Even though it is an endgame weapon, its clunky feel will be temporary. So **just ignore that bug**.
+
+2. Weapon aims akwardly while crouching and aiming. 
+
 ## Screenshots
+
+![1](./src/1.png)
+
+![2](./src/2.png)
