@@ -11,10 +11,9 @@ Copy and paste `user-locknload.pk3` and `zuser-ironsights.pk3` into the 'main' d
 ## Known Issues 
 
 1. The aiming animation for STG44 doesn't work as intended. Even though it is an endgame weapon, its clunky feel will be temporary. So **just ignore that bug**.
-
 2. Weapon aims akwardly while crouching and aiming. 
-
 3. Weapon name doesn't appear in the place it is supposed to be. But who cares? If you played the game for a long time, you will already know every weapon's name.
+4. Aim crouching model of the gun is weird. 
 
 ## Screenshots
 
